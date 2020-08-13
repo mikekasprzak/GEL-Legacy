@@ -1,2 +1,2 @@
-# GELLegacy
-Vintage library code needed by certain games
+# GEL-Legacy
+Vintage library code needed by certain games (Smiles)
