@@ -1,1 +1,2 @@
-# GEL7Legacy
+# GELLegacy
+Vintage library code needed by certain games
