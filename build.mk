@@ -1,0 +1,4 @@
+DEFINE						+=	USES_LEGACY
+USES_LEGACY					:=	1
+
+INCLUDE_DIRS				+=	src/LEGACY
